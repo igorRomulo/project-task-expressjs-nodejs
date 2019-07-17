@@ -14,5 +14,6 @@ Aplicação backend para gerenciar projetos e tarefas usando API REST
 # Configuração do ambiente
 **Uso de desenvolvimento**
  > yarn yarn dev
+ 
 **Para uso** 
 > yarn node index.js
